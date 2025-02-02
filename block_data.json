@@ -54,5 +54,13 @@
         "file_path": "C:\\Users\\VIGNESH\\vaishnavi_sample.dat",
         "device_ip": "172.20.10.2",
         "operation": "encryption"
+    },
+    {
+        "block_id": "7d8a40482049eb0c",
+        "timestamp": "2025-02-02T19:40:36.924203",
+        "file_name": "vaishnavi_sample.docx",
+        "file_path": "C:\\Users\\VIGNESH\\vaishnavi_sample.docx",
+        "device_ip": "172.20.10.2",
+        "operation": "decryption"
     }
 ]
